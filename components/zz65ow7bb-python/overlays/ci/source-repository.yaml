@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zz65ow7bb-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zz65ow7bb-python
